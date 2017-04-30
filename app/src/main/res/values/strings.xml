@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BA Secure</string>
+    <string name="scanerQr">EscanerQR</string>
+    <string name="mensaje">
+        El codigo se capturo con exito
+    </string>
+    <string name="ok">Ok</string>
+</resources>
